@@ -1,0 +1,22 @@
+{
+  "name": "edujob-finder",
+  "version": "1.0.0",
+  "description": "Educational qualification career role and live vacancy matcher with instant alerts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "jobs",
+    "recruitment",
+    "majhi-naukri",
+    "naukri",
+    "career",
+    "dark-theme"
+  ],
+  "author": "",
+  "license": "MIT"
+}
